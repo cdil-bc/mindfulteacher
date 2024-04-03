@@ -1,0 +1,214 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+/* Increase the body font size on small devices */
+html {
+  font-size: 81.3%;
+}
+
+#page-wrapper .container {
+    margin: 0 auto;
+	width:auto;
+}
+
+#desktop-logo{
+	display:none;
+}
+
+.front .banner-title {
+    display: block;
+}
+
+#mobile-logo{
+	display:block;
+	line-height:0;
+}
+
+.banner-front .banner-front-title {
+	width:100%;
+	margin:0;
+}
+
+.front #banner h2 {
+    font-size: 35px;
+    height: 90px;
+    line-height: 41px;
+    margin: 20px;
+    padding: 0;
+    width: auto;
+}
+
+.banner-front .banner-front-image {
+	width:100%;
+	height:auto;
+}
+
+.banner-front .banner-front-image a,
+.banner-front .banner-front-image img {
+	margin:0;
+}
+
+#header .region-header .block-inner{
+	margin:0;
+}
+
+#page-wrapper .container {
+	width:auto;
+}
+
+#home-content .home-column {
+    float: left;
+    width: 32%;
+	margin-right:10px;
+}
+
+#home-content .featured-content h5 a {
+	width:80%;
+}
+
+#home-content .featured-content h5 a{
+	padding:0;
+	font-size:18px;
+	padding-left:5px;
+}
+
+#home-content .featured-content h5{
+	padding:0;
+}
+
+#footer-wrapper {
+    margin-top: 70px;
+}
+
+#footer #block-mailchimp-lists-interested-in-mindful-teacher {
+    color: #414142;
+    float: left;
+    width: 60%;
+}
+
+#footer #block-mailchimp-lists-interested-in-mindful-teacher #edit-mailchimp-lists-mailchimp-interested-in-mindful-teacher-title {
+    font-size: 15px;
+    font-weight: bold;
+    width: 90%;
+}
+
+#footer #block-block-1 {
+    color: #414142;
+    float: right;
+    width: 40%;
+}
+
+#footer #block-mailchimp-lists-interested-in-mindful-teacher .follow-online {
+	width:90%;
+	padding-left:0;
+}
+
+#footer #mailchimp-lists-user-subscribe-form-interested-in-mindful-teacher .follow-online .follow {
+	margin-left:5%;
+}
+
+#footer #mailchimp-lists-user-subscribe-form-interested-in-mindful-teacher .follow-online .twitter {
+	margin-right:0;
+	float:left;
+	margin-left:10px;
+}
+
+#banner .banner-description-title {
+    clear: left;
+    color: #FFFFFF;
+    float: left;
+    font-size: 17px;
+    margin-left: 10px;
+    width: 90%;
+}
+
+#filter-content-type {
+    float: left;
+    width: 60%;
+}
+
+#filter-post-topic {
+    float: right;
+    width: 35%;
+}
+
+.views-row-feature .node-teaser h1.node-title {
+    width: 80%;
+}
+
+.views-row-feature .node-teaser .field-name-field-tags {
+    float: left;
+    margin-bottom: 10px;
+    width: 45%;
+}
+
+.views-row-feature .node-teaser nav {
+    float: right;
+    margin-bottom: 10px;
+    text-align: right;
+    width: 40%;
+}
+
+.views-row .node-teaser h1.node-title, 
+.views-row .node-teaser h1.node-title a {
+    color: #FFFFFF;
+    font-family: BrandonGrotesque-Bold,arial,Helvetica,sans-serif;
+    font-size: 20px;
+    padding-left: 5px;
+}
+.views-row .node-teaser h1.node-title {
+    float: left;
+    width: 70%;
+}
+
+.node-type-article .ds-2col > .group-left {
+    float: left;
+    width: 100%;
+}
+.view-taxonomy-term .views-row,
+.view-search-view .views-row{
+    width:336px;
+}
+
+.view-taxonomy-term .views-row-feature,
+.view-search-view .views-row-feature{
+    width:686px;
+}
+
+#home-content .static-info h3,#home-content .static-info h3 a {
+	font-size: 36px;
+	color: #fff;
+	margin: 0;
+	font-weight: bold;
+}
+
+#home-content .static-info p {
+     line-height:1.3;
+}
+
+#site-name {
+	margin: 7px 0 0 0;
+}
+
+#banner .banner-category-title {
+	margin-left: 10px;
+}
+
+#banner .read-more {
+	margin-left:10px;
+}
+
+#banner .block-content ul, #banner .block-content ol {
+	padding: 0 0 0 30px;
+}
+#home-content .home-feature {
+height: auto;
+min-height: 0px;
+}
+

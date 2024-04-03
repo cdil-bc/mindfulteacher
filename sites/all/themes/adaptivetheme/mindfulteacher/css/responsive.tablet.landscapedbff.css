@@ -1,0 +1,145 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete 
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+#page-wrapper .container {
+    margin: 0 auto;
+	width: auto;
+}
+
+#desktop-logo{
+	display:none;
+}
+#mobile-logo{
+	display:block;
+	line-height:0;
+}
+
+.banner-front .banner-front-title {
+	width:40%;
+	float:right;
+	margin:0;
+}
+
+.banner-front .banner-front-image {
+	width:60%;
+	height:auto;
+}
+
+.front #banner h2 {
+	font-size:30px;
+	line-height:41px;
+	width:auto;
+	margin-left:0;
+	padding-top:9%
+}
+
+#site-name {
+margin: 7px 0 0 0;
+}
+
+#header {
+padding-left: 10px;
+}
+
+#header .block-content ul, #header .block-content ol { 
+    padding: 0 0 0 30px;
+}
+
+
+#header .region-header .block-inner{
+	margin-left:0;
+}
+
+.banner-front .banner-front-image img {
+	margin-left:-0;
+}
+
+#home-content .home-column {
+	width:32%;
+}
+
+#home-content .featured-content h5 a {
+	width:80%;
+}
+
+#footer #block-mailchimp-lists-interested-in-mindful-teacher {
+    color: #414142;
+    float: left;
+    width: 60%;
+}
+
+#footer #block-mailchimp-lists-interested-in-mindful-teacher #edit-mailchimp-lists-mailchimp-interested-in-mindful-teacher-title {
+	width:90%;
+}
+
+#footer #block-block-1 {
+    color: #414142;
+    float: right;
+    width: 40%;
+}
+
+#footer #block-mailchimp-lists-interested-in-mindful-teacher .follow-online {
+	width:90%;
+	padding-left:0;
+}
+
+#footer #mailchimp-lists-user-subscribe-form-interested-in-mindful-teacher .follow-online .follow {
+	margin-left:10%;
+}
+
+#footer #mailchimp-lists-user-subscribe-form-interested-in-mindful-teacher .follow-online .twitter {
+	margin-right:0;
+	float:left;
+	margin-left:10px;
+}
+
+#footer-wrapper {
+    margin-top: 70px;
+}
+
+#home-content .featured-content h5 a{
+	font-size:18px;
+}
+
+#home-content .home-feature {
+    background: none repeat scroll 0 0 #4B8283;
+    height: 150px;
+    min-height: 0px;
+}
+
+#banner .banner-description-title {
+    clear: left;
+    color: #FFFFFF;
+    float: left;
+    font-size: 17px;
+    width: 90%;
+}
+.view-taxonomy-term .views-row,
+.view-search-view .views-row{
+    width:306px;
+    margin-bottom:25px;
+}
+
+.view-taxonomy-term .views-row-feature,
+.view-search-view .views-row-feature{
+    width:626px;
+}
+
+#site-name {
+	margin: 7px 0 0 0;
+}
+
+#header {
+	padding-left: 10px;
+}
+
+#header .block-content ul, #header .block-content ol {
+    padding: 0 0 0 30px;
+}
+

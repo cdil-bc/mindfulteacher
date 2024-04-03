@@ -1,0 +1,296 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+/* Increase the default font size on small devices */
+html {
+  font-size: 112.5%;
+}
+html,body{
+    width:100%;
+}
+#page{
+    width:100%;
+}
+#page-wrapper .container {
+    margin: 0 auto;
+    width: 100%;
+}
+.front .banner-title{
+}
+.region-leaderboard{
+  display:none;
+}
+.front .static-info p,
+.front .featured-article-type{
+  display:none;
+}
+#home-content .static-info h3, #home-content .static-info h3 a {
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0;
+	padding-left:4px;
+}
+#home-content .static-info {
+    height: 20px;
+    margin-bottom: 0;
+    padding: 0;
+}
+#leaderboard-wrapper {
+    padding: 30px 0 0;
+}
+#leaderboard-wrapper #nav-wrapper{
+	background:#414142;
+	width:100%;
+	height:27px;
+	position:fixed;
+	top:0;
+	color:#fff;
+	z-index:100;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+#leaderboard-wrapper #nav-wrapper #primary-menu-bar{
+	margin:5px 0 0 0;
+	float:right;
+}
+#leaderboard-wrapper #nav-wrapper a{
+	color:#fff;
+}
+#home-content .home-column{
+  margin-bottom:5px;
+  width:97%;
+  margin-left:5px;
+}
+#main-content{
+  margin:0;
+}
+#footer #block-mailchimp-lists-interested-in-mindful-teacher {
+  display:none;
+}
+#footer #block-block-1{
+  width:auto;
+  margin:0;
+}
+.banner-front .banner-front-image{
+	width:60%;
+	height:auto;
+}
+.banner-front .banner-front-image a{
+	margin:0px;
+}
+
+.banner-front .banner-front-image img {
+  margin:0;
+}
+#block-mindfulteacher-helper-mindfulteacher-banner .block-inner {
+  margin:0;
+}
+#block-mindfulteacher-helper-mindfulteacher-filters{  
+  display:none;
+}
+.view-taxonomy-term .views-row-feature,
+.view-taxonomy-term .views-row{
+  width:96%;
+  margin-left:5px;
+  margin-bottom:10px;
+}
+
+#block-mindfulteacher-helper-mindfulteacher-banner #local-term-links{
+    display:none;  
+}
+
+#banner .banner-description-title {
+    padding-left: 20px;
+    padding-right: 0;
+    width: 95%;
+}
+
+#banner .banner-description-title p{
+	display:none;
+}
+#content-wrapper{
+    margin-top:5px;
+}
+
+.views-row-feature .node-teaser .field-name-field-tags{
+    width:93%;
+    float:left;
+    margin-bottom:10px;
+}
+.views-row-feature .node-teaser nav{
+    text-align:right;
+    float:right;
+    width:93%;
+    margin-bottom:10px;
+}
+.view-taxonomy-term .view-filters{
+    display:block;
+}
+.views-row .node-teaser  h1.node-title,
+.views-row .node-teaser  h1.node-title a{
+    color:#fff;
+    font-family: BrandonGrotesque-Bold, arial, Helvetica, sans-serif;
+	padding-left:0px;
+    font-size:20px;
+}
+.views-row-feature .node-teaser  h1.node-title,
+.views-row-feature .node-teaser  h1.node-title a{
+    font-size:20px;
+	font-family: BrandonGrotesque-Bold, arial, Helvetica, sans-serif;
+	padding-left:0px;
+}
+.views-row .node-teaser .node-content{
+    clear:none;
+}
+.node-type-article #content{
+    margin:0;
+}
+.node-type-article .ds-2col > .group-left{
+    float:none;
+    clear:both;
+    width:100%;
+}
+.node-type-article .ds-2col > .group-right{
+    float:none;
+    clear:both;
+    width:100%;
+	padding-left:0;
+}
+
+#desktop-logo{
+	display:none;
+}
+#mobile-logo{
+	display:block;
+	line-height:0;
+}
+
+#header-wrapper {
+}
+
+.front #banner h2 {
+    color: #FFFFFF;
+    font-family: BrandonGrotesque-Regular,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    margin-left: -5px;
+    padding-top: 10px;
+	width:100%;
+}
+
+.banner-front .banner-front-title {
+    float: right;
+    width: 35%;
+}
+
+#home-content .featured-content .icon {
+    display:none;
+}
+
+.banner-front .banner-front-title {
+	margin:5px;
+}
+
+#home-content .featured-content h5, #home-content .featured-content h5 a {
+    color: #FFFFFF;
+    font-family: BrandonGrotesque-bold,arial,Helvetica;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+#home-content .featured-content {
+    padding: 5px 10px;
+}
+
+#home-content .featured-content h5 a {
+    float: left;
+    width: 100%;
+}
+
+#footer-wrapper {
+    margin-top: 20px;
+}
+
+#banner h2, #banner h2 a {
+    color: #FFFFFF;
+    font-family: BrandonGrotesque-Regular,Arial,Helvetica,sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    margin: 0;
+    padding-left: 10px;
+}
+
+.views-exposed-form .views-exposed-widget {
+    float: left;
+    padding: 0.5em 1em 0 10px;
+}
+
+#views-exposed-form-taxonomy-term-page .views-exposed-form .views-submit-button .form-submit{
+	background:transparent url('images/apply.jpg') top left no-repeat;
+	text-indent:-999px;
+	border:none;
+	margin-top:28px;
+	width:45px;
+}
+
+.views-row .node-teaser h1.node-title {
+    width: 90%;
+	float:none;
+	margin-left:50px;
+}
+
+.media-youtube-video .media-youtube-player{
+	height:300px;
+	width:550px;
+} 
+#mobile-menu{
+
+    font-size:24px;
+    display: block;
+    left: 7px;
+    position: absolute;
+    top: 7px;
+    width: 170px;
+}
+#secondary-menu-bar{
+    border: 1px solid #FFFFFF;
+    background: none repeat scroll 0 0 #414142;
+    border-radius:5px;
+    display:none;
+}
+#show-mobile{
+    background: url("images/mobilebutton.png") no-repeat scroll left top transparent;
+    display: block;
+    height: 25px;
+    margin-left: 15px;
+    margin-top:5px;
+    padding-left: 10px;
+    text-indent: -999em;
+    width: 25px;
+}
+
+.path-login #content-wrapper .container #columns, .path-contact #content-wrapper .container #columns, .path-about #content-wrapper .container #columns {
+width: auto;
+}
+
+#home-content .home-feature {
+height: auto;
+min-height: 0px;
+}
+
+#banner .read-more a {
+margin-left: 20px;	
+}
+
+.page-taxonomy .node-header {
+	min-height: 70px;
+}
+	

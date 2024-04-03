@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.mindfulteacher.com/search/node/64/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title></title>
+    <link>http://www.mindfulteacher.com/search/node/64/all</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>The Importance of Stopping</title>
+    <link>http://www.mindfulteacher.com/practice/importance-stopping</link>
+    <description>
+  &lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-teaser&quot;&gt;
+    &lt;p&gt;Megan Mahoney, a participant in the Mindful Teacher seminar and special educator in the Boston Public Schools, embraced this idea of stopping both for herself and her students.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;field field-name-field-content-type field-type-taxonomy-term-reference field-label-hidden view-mode-teaser&quot;&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;Tool&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;section class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline inline view-mode-teaser&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Topics:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/topics/teachers&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Teachers&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot; rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/topics/students&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Students&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-field-section field-type-taxonomy-term-reference field-label-hidden view-mode-teaser&quot;&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;Practice&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 10 Dec 2013 19:10:20 +0000</pubDate>
+ <dc:creator>lindgret</dc:creator>
+ <guid isPermaLink="false">258 at http://www.mindfulteacher.com</guid>
+  </item>
+  </channel>
+</rss>
